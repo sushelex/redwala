@@ -16,6 +16,8 @@ public class RedDao
 {
  public void registerUser(Register reg)
  {
+	 //i am doing my redBus
+	 //this is to check for changes
 	 Session session = HibernateUtils.getSession();
 	 Transaction tx = session.beginTransaction();
 	 session.save(reg);
