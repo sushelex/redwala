@@ -1,0 +1,139 @@
+body
+{
+	background: linear-gradient(to right,#66ff66,#00ff00);
+}
+#inner1
+{
+	position: absolute;
+	width: 100%;
+	height: 60px;
+	top:30px;
+	background: #4d94ff;
+	left:0px;
+	box-shadow:10px 10px 10px 8px yellow inset;
+}
+#sp1
+{
+	position: relative;
+	padding-left: 20px;
+	font-size: 20px;
+	top: 20px;
+	text-decoration: none;
+	color: purple;
+}
+#sp2
+{
+	position: relative;
+	float: right;
+	padding-left: 20px;
+	font-size: 20px;
+	top: 20px;
+	text-decoration: none;
+	color: purple;
+}
+#search1
+{	position:relative;
+	height:319px;
+	width:652px;
+	left: 468px;
+	top:140px;	
+}
+#from1
+{
+	position:absolute;
+	float:left;
+	left:20px;
+}
+#from
+{
+	height: 35px;
+	width: 200px;
+	left:20px;
+	background: #99ffff;
+	border-radius:5px;
+	font-size: 28px;
+}
+#to1
+{
+	position:absolute;
+	float: right;
+	right: 20px;
+}
+#to1 span
+{
+	float: right;
+}
+#to
+{
+	height: 35px;
+	width: 200px;
+	background: #99ffff;
+	border-radius:5px;
+	font-size: 28px;
+}
+#date1
+{
+	position:absolute;
+	left:20px;
+	top:80px;
+}
+#date
+{
+	width: 240px;
+	height: 35px;
+	border-radius:5px;
+	background: #99ffff;
+	font-size: 28px;
+}
+#return1
+{
+	position:absolute;
+	float: right;
+	right: 20px;
+	top:80px;
+}
+#return1 span
+{
+	float: right;
+}
+#return
+{
+	width: 240px;
+	height: 35px;
+	border-radius:5px;
+	background: #99ffff;
+	font-size: 28px;
+}
+#search_outer
+{
+	position: absolute;
+	float: left;
+	left: 180px;
+	width:80px;
+	height: 36px;
+	top: 170px;
+}
+#reset_outer
+{
+	position: absolute;
+	float: right;
+	right: 180px;
+	top:170px;
+	width: 80px;
+	height: 36px;
+}
+#submit
+{
+	width: 80px;
+	height: 35px;
+	color: black;
+	background: #009900;
+}
+#reset
+{
+	width: 80px;
+	height: 35px;
+	color: black;
+	background: #009900;
+}
+
